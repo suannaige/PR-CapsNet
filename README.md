@@ -27,7 +27,7 @@ This is a self-contained implementation. All model architectures, geometric oper
 
 ```text
 PR-CapsNet/
-├── main.py          # The complete implementation (Model, Training, Config)
+├── PR-CapsNet.py          # The complete implementation
 └── README.md        # Documentation
 ```
 
